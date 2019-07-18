@@ -1,7 +1,7 @@
 # RegrEtsy Reverse Proxy Server
 > Brings together microservices to approximate the item detail page of an ecommerce site. The proxy server will serve up a single HTML page that references the script and styling of multiple deployed microservices.
 
-## Related Projects
+## Related Projects 
 
   - https://github.com/regretsy-hratx42/header-and-search
   - https://github.com/regretsy-hratx42/image-carousel
